@@ -7,4 +7,4 @@ These scripts can be run on FIJI (https://imagej.net/software/fiji/downloads) fo
     H&E
     3D colony assays
 
-For more details on the application of these scripts and how to run them please refer to the Troubleshooting Guide and our published paper on Scientific Reports https://www.nature.com/articles/s41598-017-15885-6
+For more details on the application of these scripts and how to run them please refer to the User Guide and our published paper on Scientific Reports https://www.nature.com/articles/s41598-017-15885-6
